@@ -5,3 +5,11 @@ variable "AWS_REGION" {
 variable "BUCKET_NAME" {
   default = "havewemadeagiyet"
 }
+
+variable "DOMAIN" {
+  default = "havewemadeagiyet.com"
+}
+
+variable SSL_ARN {
+  type = string
+}
