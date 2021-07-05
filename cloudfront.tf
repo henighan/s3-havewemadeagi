@@ -7,8 +7,10 @@ resource "aws_cloudfront_distribution" "agiyet_distribution" {
     }
 
     enabled = true
-    aliases = ["${var.DOMAIN}"]
+    aliases = ["${var.DOMAIN}", "test.${var.DOMAIN}", "www.${var.DOMAIN}"]
     price_class = "PriceClass_100"
+    comment = "havewemadeagiyet.com"
+    default_root_object = "index.html"
 
     default_cache_behavior {
         allowed_methods  = ["DELETE", "GET", "HEAD", "OPTIONS", "PATCH", "POST", "PUT"]
