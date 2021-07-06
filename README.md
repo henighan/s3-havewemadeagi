@@ -5,6 +5,7 @@ Previous version can be found [here](https://github.com/henighan/havewemadeagiye
 
 ## Install Stuff
 [Install Aws Cli](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
+
 [Install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 
