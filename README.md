@@ -1,5 +1,5 @@
-# [havewemadeagiyet.com](havewemadeagiyet.com)
-This repos holds the resources for making website [havewemadeagiyet.com](havewemadeagiyet.com). I shamelessly stole the idea from the creators of [hasthelargehadroncolliderdestroyedtheworldyet.com](havewemadeagiyet.com).
+# [havewemadeagiyet.com](https://havewemadeagiyet.com)
+This repos holds the resources for making website [havewemadeagiyet.com](https://havewemadeagiyet.com). I shamelessly stole the idea from the creators of [hasthelargehadroncolliderdestroyedtheworldyet.com](http://hasthelargehadroncolliderdestroyedtheworldyet.com).
 This was a fun project for me to learn terraform, cloud infra stuff, and about how websites work.
 Previous version can be found [here](https://github.com/henighan/havewemadeagiyet).
 
