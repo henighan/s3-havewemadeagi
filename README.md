@@ -1,6 +1,7 @@
 # [havewemadeagiyet.com](havewemadeagiyet.com)
-Here are the code an instructions to make [havewemadeagiyet.com](havewemadeagiyet.com). This was a fun project for me to learn terraform, cloud infra stuff, and about how websites work.
-Previous version can be found here.
+This repos holds the resources for making website [havewemadeagiyet.com](havewemadeagiyet.com). I shamelessly stole the idea from the creators of [hasthelargehadroncolliderdestroyedtheworldyet.com](havewemadeagiyet.com).
+This was a fun project for me to learn terraform, cloud infra stuff, and about how websites work.
+Previous version can be found [here](https://github.com/henighan/havewemadeagiyet).
 
 ## Install Stuff
 [Install Aws Cli](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
